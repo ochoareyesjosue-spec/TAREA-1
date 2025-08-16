@@ -32,3 +32,6 @@ Aplicaciones que he desarrolado:
 
 Experiencia previa:
 -Ninguna experiencia laboral formal, pero varios proyectos académicos hechos en clase.
+
+
+Aprendiendo Github.
